@@ -1,0 +1,20 @@
+Course: CCNA 2020: Virtualization Concepts by Ronnie Wong https://accenture.percipio.com/courses/fab8cbcb-1397-4e98-8b89-18e842f90f9c/videos/9c18d098-375f-4e77-b4e4-ec1ac427401a
+
+Goal: Configure a Virtual Machine on a Virtualization Platform
+
+
+Def: It simply means Running a Computer Inside another Computer. but why?
+
+Why do you need Virtualization in a workplace?
+
+1. Its the most efficient way of using what our Computers can do.
+
+-  Due to the Limited capacity of earlier computers, it completely makes sense we run mimimal applications in each computer.
+   But with the powerful Modern Computers we can do alot more that. And now think about the case with Modern Servers, we litterly have enormous resources which are untouched.
+   
+   Consider we have a Windows server and the total number services hosted on it are 1-2. Now think about the Idea of Resource Utiliazation, which would be very low.
+   Now people say we need those when there is a spike in the Network traffic, but the rest of the time they're sitting Idle.
+   
+   Consider a case you have a stack of servers for multiple environments, as you run them individually it means you're utilizing very least of them.
+   
+   Best example for Virtualization is Car pooling to office, we can fill the rest of the seats with colleagues which will save alot of fuel, emissions etc and the specialiy with Virtualization is everyone feels like it was their own car. No one knows the're using a diff server.
